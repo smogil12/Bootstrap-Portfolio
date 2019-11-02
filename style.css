@@ -1,0 +1,37 @@
+.navbar-brand{
+
+    
+}
+
+body {
+
+    background-color: rgb(156, 179, 228);
+}
+
+
+.my-col {
+
+    font-size: 25px;
+
+    padding: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    color: white;
+    text-align: center;
+    border-top: 6px solid rgb(182, 233, 182);
+  }
+  
+  @media screen and (max-width: 400px) {
+
+   #styledImage {
+
+    
+  margin-left: 20px; 
+  margin-bottom: 20px;}
+   }

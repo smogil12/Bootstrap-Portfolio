@@ -1,0 +1,31 @@
+body {
+
+    background-color: rgb(156, 179, 228);
+}
+
+.btn-primary {
+
+    background-color: lightgray;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    color: white;
+    text-align: center;
+    border-top: 6px solid rgb(182, 233, 182);
+  }
+
+  .header-col {
+
+    
+    margin-top: 20px;
+  }
+
+  .mainheader {
+    
+    font-size: 25px;
+  }
